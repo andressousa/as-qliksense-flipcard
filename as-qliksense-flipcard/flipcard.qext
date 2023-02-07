@@ -1,0 +1,16 @@
+{
+	"name": "AS Flipcard",
+	"description": "Flipcard Visualization - An extension for Qlik Sense to display a flipcard that holds two master items. ",
+	"icon": "extension",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "André Sousa",
+	"homepage": "https://www.linkedin.com/in/andresantossousa/",
+	"keywords": "qlik-sense, visualization, flipcard",
+	"preview": "preview.png",
+	"license": "The MIT License (MIT)",
+	"repository": "https://github.com/andressousa/qliksense-flipcard-extension",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
