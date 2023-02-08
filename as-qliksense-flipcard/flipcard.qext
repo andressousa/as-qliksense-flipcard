@@ -9,7 +9,7 @@
 	"keywords": "qlik-sense, visualization, flipcard",
 	"preview": "preview.png",
 	"license": "The MIT License (MIT)",
-	"repository": "https://github.com/andressousa/qliksense-flipcard-extension",
+	"repository": "https://github.com/andressousa/as-qliksense-flipcard",
 	"dependencies": {
 		"qlik-sense": ">=3.0.x"
 	}
