@@ -1,6 +1,6 @@
 {
 	"name": "AS Flipcard",
-	"description": "Flipcard Visualization - An extension for Qlik Sense to display a flipcard that holds two master items. ",
+	"description": "AS Flipcard is a visualization extension for Qlik Sense to display a flipcard that holds two master items.",
 	"icon": "extension",
 	"type": "visualization",
 	"version": "1.0.0",

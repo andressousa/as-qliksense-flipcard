@@ -1,7 +1,5 @@
 /*!
 *
-* AS Flipcard - An extension for Qlik Sense to display a flipcard that holds two master items. 
-* --
 * The MIT License (MIT)
 * Copyright (c) 2023
 * 
@@ -23,7 +21,7 @@
 * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 *
 * @version v1.0.0
-* @link https://github.com/andressousa/qliksense-flipcard-extension
+* @link https://github.com/andressousa/as-qliksense-flipcard
 * @author André Sousa
 * @license MIT
 */
