@@ -30,6 +30,7 @@ define(["qlik", "ng!$q"],
 function ( qlik, $q ){
 	"use strict";
 
+	//current app
 	var app = qlik.currApp();
 
 	/**

@@ -114,7 +114,10 @@
   backface-visibility: hidden;
 }
 
-.qv-object-flipcard .card__face--front {}
+.qv-object-flipcard .card__face--front {
+	z-index: 2;
+	transform: rotateY(0deg);
+}
 .qv-object-flipcard .card__face--back {
   transform: rotateY(180deg);
 }
