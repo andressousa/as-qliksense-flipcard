@@ -8,7 +8,7 @@ AS Flipcard is a visualization extension for Qlik Sense to display a flipcard th
 ## Instructions
 
                 
-1. Download **as-qliksense-flipcard** folder;
+1. Download the [lastest release](https://github.com/andressousa/as-qliksense-flipcard/releases/latest);
 2. Install extension following [Qlik Help](https://help.qlik.com/en-US/sense-developer/November2022/Subsystems/Extensions/Content/Sense_Extensions/Howtos/deploy-extensions.htm) instructions;
 3. Open the App;
 4. Go to Custom objects into [Assets panel](https://help.qlik.com/en-US/sense/November2022/Subsystems/Hub/Content/Sense_Hub/Assets/assets-panel.htm);
