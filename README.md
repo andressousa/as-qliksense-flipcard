@@ -1,5 +1,5 @@
 # AS Flipcard
-![GitHub](https://img.shields.io/github/license/andressousa/as-qliksense-flipcard) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andressousa/as-qliksense-flipcard) ![GitHub issues](https://img.shields.io/github/issues/andressousa/as-qliksense-flipcard)
+![GitHub](https://img.shields.io/github/license/andressousa/as-qliksense-flipcard) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andressousa/as-qliksense-flipcard) ![GitHub issues](https://img.shields.io/github/issues/andressousa/as-qliksense-flipcard) [![Github All Releases](https://img.shields.io/github/downloads/andressousa/as-qliksense-flipcard/total.svg)]()
 
 AS Flipcard is a visualization extension for Qlik Sense to display a flipcard that holds two master items.
 
