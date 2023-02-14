@@ -81,8 +81,8 @@ function (
 			html += '<button id="'+layout.buttonID+'" type="button" class="lui-button card__flip"><span class="lui-icon lui-icon--swap"></span></button>';
 			html += '<button id="flipexp-'+layout.buttonID+'" type="button" class="lui-button card__flip"><span class="lui-icon lui-icon--export"></span></button>';
 			html += '<div id="'+layout.cardID+'" class="card">';
-			html += '<div id="'+layout.frontID+'" class="card__face card__face--front">Front Chart</div>';
-			html += '<div id="'+layout.backID+'" class="card__face card__face--back">Back Chart</div>';
+			html += '<div id="'+layout.frontID+'" class="card__face card__face--front"><h2 class="qv-object-title">Front Chart</h2></div>';
+			html += '<div id="'+layout.backID+'" class="card__face card__face--back"><h2 class="qv-object-title">Back Chart</h2></div>';
 			html += '</div></div></div>';
 
 			//show elements
@@ -113,7 +113,11 @@ function (
 			app.getObject(layout.backID, layout.back);
 
 			return qlik.Promise.resolve();
-		}
+		}, controller: ["$scope", "$element", function ( $scope ) {
+			$(window).resize(function(){
+				qlik.resize();
+			});
+		}]
 	};
 
 });
