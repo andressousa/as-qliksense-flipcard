@@ -20,7 +20,6 @@
 * IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 *
-* @version v1.0.0
 * @link https://github.com/andressousa/as-qliksense-flipcard
 * @author André Sousa
 * @license MIT
@@ -115,6 +114,7 @@
 .qv-object-flipcard .card__face--front {
 	z-index: 2;
 	transform: rotateY(0deg);
+
 }
 .qv-object-flipcard .card__face--back {
   transform: rotateY(180deg);
